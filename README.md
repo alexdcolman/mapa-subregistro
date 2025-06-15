@@ -1,6 +1,6 @@
-# No registro de ingresos en la EPH – Análisis geoespacial
+# Análisis geoespacial del no registro de ingresos en la Encuesta Permanente de Hogares (INDEC), 2024
 
-Este proyecto analiza la distribución geoespacial del **no registro de ingresos** en hogares de la Encuesta Permanente de Hogares (EPH) de Argentina. Se identifican **aglomerados urbanos con alta incidencia de ITF = 0**, y se exploran patrones territoriales asociados al no registro, incluyendo la superposición con zonas de vulnerabilidad estructural (RENABAP).
+Este proyecto analiza la distribución geoespacial del **no registro de ingresos** en hogares de la Encuesta Permanente de Hogares (EPH, INDEC) de Argentina. Se identifican **aglomerados urbanos con alta incidencia de ITF = 0**, y se exploran patrones territoriales asociados al no registro, incluyendo la superposición con zonas de vulnerabilidad estructural (RENABAP).
 
 ---
 
@@ -81,3 +81,7 @@ Para dudas o colaboraciones, podés contactarme vía GitHub o correo: alexdcolma
 Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ---
+
+## Agradecimientos
+
+El desarrollo de este trabajo contó con el acompañamiento de **Renzo Polo**, cuyos aportes y devoluciones contribuyeron significativamente a su orientación y enfoque.
