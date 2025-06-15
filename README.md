@@ -4,6 +4,16 @@ Este proyecto analiza la distribución geoespacial del **no registro de ingresos
 
 ---
 
+## Autoría
+
+Este proyecto fue desarrollado por:
+
+- **Alex Colman [independent.academia.edu/AlexColman1](https://independent.academia.edu/AlexColman1) – Diseño metodológico, modelado y análisis**
+
+Para dudas o colaboraciones, podés contactarme vía GitHub o correo: alexdcolman@gmail.com
+
+---
+
 ## Objetivo
 
 - Detectar y visualizar territorialmente zonas con alta incidencia de hogares o personas sin ingresos declarados, considerando tanto datos de hogares como de personas, y utilizar herramientas de análisis geoespacial para describir y contextualizar este fenómeno.
@@ -69,12 +79,5 @@ Este proyecto analiza la distribución geoespacial del **no registro de ingresos
 ## Licencia
 
 Este proyecto está bajo la licencia [MIT](LICENSE).
-
----
-
-## Autor
-
-**Alex Colman**  
-[independent.academia.edu/AlexColman1](https://independent.academia.edu/AlexColman1)
 
 ---
