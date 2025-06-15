@@ -46,7 +46,7 @@ Este proyecto analiza la distribución geoespacial del **no registro de ingresos
 3. **Agregación por aglomerado** y cálculo de indicadores.
 4. **Unión con shapefiles** y creación de GeoDataFrames.
 5. **Visualización geoespacial** (mapas coropléticos).
-6. *(Opcional)* Análisis espacial y superposición con RENABAP.
+6. **Análisis espacial y superposición con RENABAP**.
 
 ---
 
