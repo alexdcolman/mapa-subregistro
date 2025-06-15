@@ -8,7 +8,7 @@ Este proyecto analiza la distribución geoespacial del **no registro de ingresos
 
 Este proyecto fue desarrollado por:
 
-- **Alex Colman [independent.academia.edu/AlexColman1](https://independent.academia.edu/AlexColman1)
+- **Alex Colman** [independent.academia.edu/AlexColman1](https://independent.academia.edu/AlexColman1)
 
 Para dudas o colaboraciones, podés contactarme vía GitHub o correo: alexdcolman@gmail.com
 
